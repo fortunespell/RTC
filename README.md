@@ -1,5 +1,4 @@
-# RTC
-Design and Implementation of a Digital Clock Using Sequential Circuits in Verilog and Cadence Virtuoso
+RTC: Design and Implementation of a Digital Clock Using Sequential Circuits in Verilog and Cadence Virtuoso
 
 This repository documents the design, implementation, and simulation of a digital clock using sequential circuits. The design is implemented in Verilog HDL, and the functionality is verified using Cadence Virtuoso software.
 
@@ -36,15 +35,7 @@ Digital clocks have become ubiquitous in our technology-driven world. This proje
 Design Methodology and Implementation
 Research Papers Analysis
 
-The project commenced with a comprehensive review of existing research papers on digital clock implementations. This review informed the selection of design methodologies, circuit components, and simulation tools. Key takeaways from the analyzed papers include:
-
-Paper 1: Highlighted the benefits of combining asynchronous and synchronous logic in digital clock designs for optimizing power consumption and performance.
-
-Paper 2: Demonstrated the use of decade counters and logic gates for counting seconds, minutes, and hours in a 24-hour format.
-
-Paper 3: Showcased the implementation of a digital clock using JK flip-flops for synchronous counting and push buttons for time setting.
-
-Paper 4: Emphasized the importance of modular design and testing individual circuit blocks before integrating them into the final digital clock system.
+The project commenced with a comprehensive review of existing research papers on digital clock implementations. This review informed the selection of design methodologies, circuit components, and simulation tools.
 
 Verilog HDL Implementation
 
